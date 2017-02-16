@@ -3,7 +3,7 @@
 
 ##使用方法
 
-下载zhurl.py到任意位置，如果需要全局使用，可放至python安装路径的Lib/site-packages目录下。
+下载zhurl.py到引用它的脚本的工作目录下。
 
 ```python
 import zhurl
